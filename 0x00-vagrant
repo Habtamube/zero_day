@@ -5,4 +5,4 @@ cp "README.md" 0x00-vagrant
 echo "0-hello_ubuntu" 0x00-vagrant
 git add .
 git commit -m 'hhh'
-git push
+git push commit again
