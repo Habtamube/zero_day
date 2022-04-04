@@ -3,7 +3,8 @@ mkdir 0x00-vagrant
 cd 0x00-vagrant
 mv "README.md" 0x00-vagrant
 touch 0-hello_ubuntu
-echo "hello" >0-hello_ubuntu
+echo "uname" >0-hello_ubuntu
+echo "Hello Ubuntu" >>0-hello_ubuntu
 git add .
 git commit -m 'abth'
 git push commit again
